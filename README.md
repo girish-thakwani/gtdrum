@@ -1,2 +1,2 @@
 # gtdrum
-a c++ project
+a c++ GUI project
