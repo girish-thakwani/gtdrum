@@ -6,12 +6,8 @@
 #include<math.h>
 #include<string.h>
 #include<time.h>
-#include<fstream.h>
+#include<process.h>
 union REGS in,out;
-struct node{
-node *next;
-int data;
-};
 class pl{
 public:
 void per(){
