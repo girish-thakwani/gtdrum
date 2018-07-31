@@ -1,5 +1,5 @@
 # Gtdrum
-A C++ GUI drum simulator that uses sound, graphics and mouse progarmming using software 8086 interrupts interface.
+A C++ GUI drum simulator that uses sound, graphics and mouse port(0x33) progarmming using software 8086 interrupts interface.
 Its user friendly and easy to use.
 HOW TO PLAY:
 
